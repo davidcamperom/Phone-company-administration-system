@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1599037863 source:c:\users\david campero maña\onedrive\universidad\segundo curso\m.p\prácticas 2020-21\práctica 1. c++\practica_1.1\prueba1.cpp
+	<cstdlib>
+	<iostream>
+	"Fecha.h"
+	"Cliente.h"
+
+1605633726 c:\users\david campero maña\onedrive\universidad\segundo curso\m.p\prácticas 2020-21\práctica 1. c++\practica_1.1\include\fecha.h
+	<iostream>
+
+1605635544 c:\users\david campero maña\onedrive\universidad\segundo curso\m.p\prácticas 2020-21\práctica 1. c++\practica_1.1\include\cliente.h
+	<iostream>
+	<cstring>
+	"Fecha.h"
+
+1605635544 source:c:\users\david campero maña\onedrive\universidad\segundo curso\m.p\prácticas 2020-21\práctica 1. c++\practica_1.1\src\cliente.cpp
+	"Cliente.h"
+
+1605635411 source:c:\users\david campero maña\onedrive\universidad\segundo curso\m.p\prácticas 2020-21\práctica 1. c++\practica_1.1\src\fecha.cpp
+	"Fecha.h"
+

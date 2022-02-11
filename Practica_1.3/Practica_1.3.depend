@@ -1,0 +1,74 @@
+# depslib dependency file v1.0
+1606668087 source:c:\users\david campero maña\onedrive\universidad\segundo curso\m.p\prácticas 2020-21\práctica 1. c++\practica_1.3\prueba2.cpp
+	<iostream>
+	<cstdlib>
+	<iomanip>
+	"Fecha.h"
+	"Contrato.h"
+	"ContratoTP.h"
+	"ContratoMovil.h"
+
+1606601794 c:\users\david campero maña\onedrive\universidad\segundo curso\m.p\prácticas 2020-21\práctica 1. c++\practica_1.3\include\fecha.h
+	<iostream>
+
+1606684242 c:\users\david campero maña\onedrive\universidad\segundo curso\m.p\prácticas 2020-21\práctica 1. c++\practica_1.3\include\contrato.h
+	"Fecha.h"
+	<iostream>
+
+1606685527 c:\users\david campero maña\onedrive\universidad\segundo curso\m.p\prácticas 2020-21\práctica 1. c++\practica_1.3\include\contratotp.h
+	"ContratoTP.h"
+	<iostream>
+	<iomanip>
+	"Contrato.h"
+
+1606684287 c:\users\david campero maña\onedrive\universidad\segundo curso\m.p\prácticas 2020-21\práctica 1. c++\practica_1.3\include\contratomovil.h
+	<iostream>
+	<string.h>
+	<cstring>
+	<iomanip>
+	"Fecha.h"
+	"Contrato.h"
+
+1606601672 source:c:\users\david campero maña\onedrive\universidad\segundo curso\m.p\prácticas 2020-21\práctica 1. c++\practica_1.3\src\cliente.cpp
+	"Cliente.h"
+
+1606601729 c:\users\david campero maña\onedrive\universidad\segundo curso\m.p\prácticas 2020-21\práctica 1. c++\practica_1.3\include\cliente.h
+	<iostream>
+	<cstring>
+	"Fecha.h"
+
+1606601681 source:c:\users\david campero maña\onedrive\universidad\segundo curso\m.p\prácticas 2020-21\práctica 1. c++\practica_1.3\src\contrato.cpp
+	"Contrato.h"
+
+1606685753 source:c:\users\david campero maña\onedrive\universidad\segundo curso\m.p\prácticas 2020-21\práctica 1. c++\practica_1.3\src\contratomovil.cpp
+	"ContratoMovil.h"
+
+1606685740 source:c:\users\david campero maña\onedrive\universidad\segundo curso\m.p\prácticas 2020-21\práctica 1. c++\practica_1.3\src\contratotp.cpp
+	"ContratoTP.h"
+
+1606686547 source:c:\users\david campero maña\onedrive\universidad\segundo curso\m.p\prácticas 2020-21\práctica 1. c++\practica_1.3\src\empresa.cpp
+	"Empresa.h"
+
+1606683900 c:\users\david campero maña\onedrive\universidad\segundo curso\m.p\prácticas 2020-21\práctica 1. c++\practica_1.3\include\empresa.h
+	<iostream>
+	"Contrato.h"
+	"Cliente.h"
+	"ContratoTP.h"
+	"ContratoMovil.h"
+	<stdlib.h>
+	<typeinfo>
+
+1606601714 source:c:\users\david campero maña\onedrive\universidad\segundo curso\m.p\prácticas 2020-21\práctica 1. c++\practica_1.3\src\fecha.cpp
+	"Fecha.h"
+
+1575231676 source:c:\users\david campero maña\onedrive\universidad\segundo curso\m.p\prácticas 2020-21\práctica 1. c++\practica_1.3\prueba3.cpp
+	<cstdlib>
+	<iostream>
+	<iomanip>
+	"Fecha.h"
+	"Cliente.h"
+	"Contrato.h"
+	"ContratoTP.h"
+	"ContratoMovil.h"
+	"Empresa.h"
+
